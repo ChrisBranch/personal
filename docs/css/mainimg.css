@@ -1,4 +1,6 @@
-.image #main {
-    height: 200px;
-    width: 300px;
+#main {
+    border-radius: 50%;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
 }
